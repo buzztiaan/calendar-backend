@@ -1,3 +1,9 @@
+calendar-backend (0.8-7+thumb0) unstable; urgency=low
+
+  * Thumb2 compile
+
+ -- Ivaylo Dimitrov <freemangordon@abv.bg>  Sat, 10 Oct 2015 11:21:32 +0300
+
 calendar-backend (0.8-7) unstable; urgency=low
 
   * Fixes: MB#12682 - calendar-backend's ICalConverter class does not export proper iCal data
